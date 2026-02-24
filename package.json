@@ -5,15 +5,15 @@
   "main": "index.js",
   "type": "module",
   "author": {
-    "name": "Okami (Developer: Abinash)",
-    "url": "https://discord.gg/N5Jy9XdV2b"
+    "name": "Okami (Developer: CubePlayz)",
+    "url": "https://discord.gg/eWcU9eYBu5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VortexDeploy/VortexDeployBot"
+    "url": "https://github.com/cubeplayz071-alt/CubeCloudHost"
   },
   "bugs": {
-    "url": "https://discord.gg/N5Jy9XdV2b",
+    "url": "https://discord.gg/eWcU9eYBu5",
     "email": "mranoymous699@gmail.com"
   },
   "homepage": "",
