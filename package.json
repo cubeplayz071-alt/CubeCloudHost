@@ -1,7 +1,7 @@
 {
-  "name": "vortex-deploy",
+  "name": "CubeCloudHost-deploy",
   "version": "1.0.0",
-  "description": "🚀 Vortex Deploy — A next-gen Discord bot to manage your Pterodactyl panel with stunning embeds, real-time uptime, and smooth automation.",
+  "description": "🚀 CubeCloudHost Deploy — A next-gen Discord bot to manage your Pterodactyl panel with stunning embeds, real-time uptime, and smooth automation.",
   "main": "index.js",
   "type": "module",
   "author": {
@@ -28,8 +28,8 @@
     "discord",
     "discord-bot",
     "pterodactyl",
-    "vortex",
-    "vortex-deploy",
+    "CubeCloudHost",
+    "CubeCloudHost-deploy",
     "okami",
     "server-management",
     "hosting-bot",
@@ -53,7 +53,7 @@
     "node": ">=18.0.0"
   },
   "vortexdeploy": {
-    "branding": "⚡ Made by Okami | Vortex Deploy",
+    "branding": "⚡ Made by Okami | CubeCloudHost Deploy",
     "timezone": "Asia/Kolkata",
     "theme": "dark-premium"
   }
